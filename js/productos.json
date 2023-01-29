@@ -1,0 +1,102 @@
+[
+    {
+        "id": "proce-01",
+        "titulo": "Procesador Intel Core i5 11400 4.4 Ghz Rocket Lake 1200",
+        "imagen": "./img/procesadores/01.png",
+        "categoria": {
+            "nombre": "Procesadores",
+            "id": "procesador"
+        },
+        "precio": 58669
+    },
+    {
+        "id": "proce-02",
+        "titulo": "Procesador Intel Core i7 12700K 5.0 Ghz Alder Lake 1700",
+        "imagen": "./img/procesadores/02.png",
+        "categoria": {
+            "nombre": "Procesadores",
+            "id": "procesadores"
+        },
+        "precio": 154999
+    },
+    {
+        "id": "proce-03",
+        "titulo": "Procesador Intel Core i9 13900K 5.8 Ghz Raptor Lake 1700",
+        "imagen": "./img/procesadores/03.png",
+        "categoria": {
+            "nombre": "Procesadores",
+            "id": "procesadores"
+        },
+        "precio": 299900
+    },
+    {
+        "id": "proce-04",
+        "titulo": "Procesador Amd Ryzen 5 5600X 3.7 Ghz",
+        "imagen": "./img/procesadores/04.png",
+        "categoria": {
+            "nombre": "Procesadores",
+            "id": "procesadores"
+        },
+        "precio": 79999
+    },
+    {
+        "id": "proce-05",
+        "titulo": "Procesador Amd Ryzen 7 5700G 4.6 Ghz",
+        "imagen": "./img/procesadores/05.png",
+        "categoria": {
+            "nombre": "Procesadores",
+            "id": "procesadores"
+        },
+        "precio": 83389
+    },
+    {
+        "id": "proce-06",
+        "titulo": "Procesador Amd Ryzen 9 7950X 5.7 Ghz",
+        "imagen": "./img/procesadores/06.png",
+        "categoria": {
+            "nombre": "Procesadores",
+            "id": "procesadores"
+        },
+        "precio": 239989
+    },
+    {
+        "id": "mother-01",
+        "titulo": "Motherboard 1200 10°Gen - Asus Prime B460M-A R2.0",
+        "imagen": "./img/motherboard/01.png",
+        "categoria": {
+            "nombre": "Motherboard",
+            "id": "motherboard"
+        },
+        "precio": 25499
+    },
+    {
+        "id": "mother-02",
+        "titulo": "Motherboard AM4 - Asrock B550M HDV",
+        "imagen": "./img/motherboard/02.png",
+        "categoria": {
+            "nombre": "Motherboard",
+            "id": "motherboard"
+        },
+        "precio": 27999
+    },
+    {
+        "id": "mother-03",
+        "titulo": "Motherboard 1700 12°Gen - Gigabyte GA-Z690 GAMING X DDR4",
+        "imagen": "./img/motherboard/03.png",
+        "categoria": {
+            "nombre": "Motherboard",
+            "id": "motherboard"
+        },
+        "precio": 92999
+    },
+    {
+        "id": "ram-01",
+        "titulo": "Memoria Ram DDR4 - 4Gb 2666 Mhz Adata Value",
+        "imagen": "./img/ram/01.png",
+        "categoria": {
+            "nombre": "Memoria Ram",
+            "id": "ram"
+        },
+        "precio": 10009
+    }
+]
